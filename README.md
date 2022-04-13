@@ -6,7 +6,7 @@ Using :
 
 # _HTML_ : construction
 
-# _CSS : Bootstrap,Fontawsome..._ : styling
+# _CSS : Grid,Bootstrap,Fontawsome..._ : styling
 
 # _JavaScript_ : fonctionalities
 
