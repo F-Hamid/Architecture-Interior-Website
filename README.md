@@ -10,9 +10,6 @@ Using :
 
 # _JavaScript_ : fonctionalities
 
-
-
 ## _Deployment:_
 
-[https://budgetspa.netlify.app](https://budgetspa.netlify.app)
-https://budgetspa.netlify.app
+[https://architect-interior-design.netlify.app/](https://architect-interior-design.netlify.app/)
