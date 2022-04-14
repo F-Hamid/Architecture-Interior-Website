@@ -1,4 +1,4 @@
-## Dentist Website : F-Hamid
+## Architacture / interior design Website : F-Hamid
 
 A styled and responsive web SPA for a Architacture and interior design agency.
 
